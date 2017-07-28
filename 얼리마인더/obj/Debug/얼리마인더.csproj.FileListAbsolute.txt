@@ -1,0 +1,10 @@
+c:\users\dsm2017\documents\visual studio 2017\Projects\얼리마인더\얼리마인더\bin\Debug\얼리마인더.exe.config
+c:\users\dsm2017\documents\visual studio 2017\Projects\얼리마인더\얼리마인더\bin\Debug\얼리마인더.exe
+c:\users\dsm2017\documents\visual studio 2017\Projects\얼리마인더\얼리마인더\bin\Debug\얼리마인더.pdb
+c:\users\dsm2017\documents\visual studio 2017\Projects\얼리마인더\얼리마인더\obj\Debug\얼리마인더.csprojResolveAssemblyReference.cache
+c:\users\dsm2017\documents\visual studio 2017\Projects\얼리마인더\얼리마인더\obj\Debug\얼리마인더.Form1.resources
+c:\users\dsm2017\documents\visual studio 2017\Projects\얼리마인더\얼리마인더\obj\Debug\얼리마인더.Properties.Resources.resources
+c:\users\dsm2017\documents\visual studio 2017\Projects\얼리마인더\얼리마인더\obj\Debug\얼리마인더.csproj.GenerateResource.Cache
+c:\users\dsm2017\documents\visual studio 2017\Projects\얼리마인더\얼리마인더\obj\Debug\얼리마인더.exe
+c:\users\dsm2017\documents\visual studio 2017\Projects\얼리마인더\얼리마인더\obj\Debug\얼리마인더.pdb
+c:\users\dsm2017\documents\visual studio 2017\Projects\얼리마인더\얼리마인더\obj\Debug\얼리마인더.Form2.resources
